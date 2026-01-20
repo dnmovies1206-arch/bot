@@ -15,7 +15,7 @@ def is_enabled(value, default):
         return default
 
 # ============================
-# Bot Information Configuration
+# Bot Information Configuration 
 # ============================
 SESSION = environ.get('SESSION', 'dreamxbotz_search')   # Session name for the bot
 API_ID = int(environ.get('API_ID', '')) # API ID from my.telegram.org
