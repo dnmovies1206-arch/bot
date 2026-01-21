@@ -62,14 +62,14 @@ auth_channels     = environ.get("AUTH_CHANNELS", "-1002988640125")# Channels for
 # Payment Configuration
 # ============================
 QR_CODE = environ.get('QR_CODE', 'https://i.ibb.co/5gQV9fNV/photo-2026-01-21-03-57-26-7597659080605302800.jpg')    # QR code image for payments
-OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'karthik93gm@oksbi')    # Owner UPI ID for payments
+OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 's.bannappa@superyes')    # Owner UPI ID for payments
 
 STAR_PREMIUM_PLANS = {
-    10: "7day",
-    20: "15day",    
-    40: "1month", 
-    55: "45day",
-    75: "60day",
+    20: "7day",
+    40: "15day",    
+    60: "1month", 
+    80: "45day",
+    100: "60day",
 }  # Premium plans with their respective durations in days
 
 # ============================
@@ -123,8 +123,8 @@ THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "54000"))
 # Channel & Group Links Configuration
 # ============================
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/dragonkannadavmovie') # Group link for the bot
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/dragonkannadavmovie') # Owner link for the bot
-UPDATE_CHNL_LNK = environ.get('UPDATE_CHNL_LNK', 'https://t.me/dragonkannadavmovie') # Update channel link for the bot
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/+GB4qVgc43bE2MWY9') # Owner link for the bot
+UPDATE_CHNL_LNK = environ.get('UPDATE_CHNL_LNK', 'https://t.me/+GB4qVgc43bE2MWY9') # Update channel link for the bot
 
 # ============================
 # User Configuration
