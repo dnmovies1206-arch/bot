@@ -98,34 +98,34 @@ Join our support group for assistance:
 
 ## ⚙️ Commands
 
-```bash
-movie_update        – Toggle movie update notifications
-pm_search           – Toggle private message search
-verification        – View total verified users
-top                 – Search top trending items
-start               – Start the bot
-settings            – Modify bot settings
-plan                – View available premium plans
-myplan              – Check your active plan
-stats               – View database stats
-info                – Get user info
-id                  – Get Telegram ID
-link                – Create single post link
-batch               – Create bulk post link
-deleteall           – Delete all files from DB
-delete              – Delete a specific file
-deletefiles         – Remove PreDVD and CamRip files
-broadcast           – Broadcast to users
-grp_broadcast       – Broadcast to groups
-enable              – Enable group joining
-disable             – Disable group
-leave               – Leave group
-ban                 – Ban user from bot
-unban               – Unban user
-add_premium         – Add premium access
-remove_premium      – Remove premium access
-premium_users       – List premium users
-restart             – Restart the bot
+```
+/movie_update bash       – Toggle movie update notifications
+/pm_search           – Toggle private message search
+/verification        – View total verified users
+/top                 – Search top trending items
+/start               – Start the bot
+/settings            – Modify bot settings
+/plan                – View available premium plans
+/myplan              – Check your active plan
+/stats               – View database stats
+/info                – Get user info
+/id                  – Get Telegram ID
+/link                – Create single post link
+/batch               – Create bulk post link
+/deleteall           – Delete all files from DB
+/delete              – Delete a specific file
+/deletefiles         – Remove PreDVD and CamRip files
+/broadcast           – Broadcast to users
+/grp_broadcast       – Broadcast to groups
+/enable              – Enable group joining
+/disable             – Disable group
+/leave               – Leave group
+/ban                 – Ban user from bot
+/unban               – Unban user
+/add_premium         – Add premium access
+/remove_premium      – Remove premium access
+/premium_users       – List premium users
+/restart             – Restart the bot
 ```
 
 ---
