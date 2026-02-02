@@ -70,7 +70,7 @@ STAR_PREMIUM_PLANS = {
     60: "1month", 
     80: "45day",
     100: "60day",
-}  # Premium plans with their respective durations in days
+}  # Premium plans with their respective durations in days 7days 15days
 
 # ============================
 # MongoDB Configuration
